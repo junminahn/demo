@@ -9,3 +9,5 @@ I love Mergify!
 Me too!
 
 This is Amazing! Love Love Mergify.
+
+This is the protected branch.
